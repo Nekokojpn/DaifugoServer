@@ -1,0 +1,30 @@
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\bin\Debug\DaifugoServer.exe.config
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\bin\Debug\DaifugoServer.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\bin\Debug\DaifugoServer.pdb
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.csprojAssemblyReference.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\MainWindow.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\App.g.cs
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer_MarkupCompile.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer_MarkupCompile.lref
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\MainWindow.baml
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.g.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.Properties.Resources.resources
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.csproj.GenerateResource.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.csproj.CoreCompileInputs.cache
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.exe
+F:\MYFOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.pdb
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\bin\Debug\DaifugoServer.exe.config
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\bin\Debug\DaifugoServer.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\bin\Debug\DaifugoServer.pdb
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.csprojAssemblyReference.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\MainWindow.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\App.g.cs
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer_MarkupCompile.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer_MarkupCompile.lref
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\MainWindow.baml
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.g.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.Properties.Resources.resources
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.csproj.GenerateResource.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.csproj.CoreCompileInputs.cache
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.exe
+D:\My FOLDER\ONEDRIVE\俺用フォルダ\DaifugoServer\DaifugoServer\obj\Debug\DaifugoServer.pdb
